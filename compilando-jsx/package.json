@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "compile": "babel src --out-dir public"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.17",
+    "@babel/core": "^7.12.17",
+    "@babel/plugin-transform-react-jsx": "^7.12.17"
+  }
+}
